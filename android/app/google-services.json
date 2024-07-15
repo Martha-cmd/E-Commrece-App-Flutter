@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "131467714799",
+    "project_id": "zenith-stores",
+    "storage_bucket": "zenith-stores.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131467714799:android:0b18d9224aeb96d658bb1a",
+        "android_client_info": {
+          "package_name": "com.zenith.zenith_stores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131467714799-qajp9ev164m5kaus48pviau28hun4d6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zenith.zenith_stores",
+            "certificate_hash": "e1985db00a5ab84d952a0c87674db124e5aa5de0"
+          }
+        },
+        {
+          "client_id": "131467714799-v9k05vjmsv6nbu80malmqr1to9q008ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNzgt5uAGQ80_F0qfzHOUL83iF2GE8INk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131467714799-v9k05vjmsv6nbu80malmqr1to9q008ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
